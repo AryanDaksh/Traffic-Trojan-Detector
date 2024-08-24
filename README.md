@@ -1,1 +1,1 @@
-# detection of traffic trojan using binary classification
+# Detection of Traffic Trojan using Binary Classification
